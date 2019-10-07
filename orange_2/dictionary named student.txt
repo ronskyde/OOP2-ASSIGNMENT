@@ -1,0 +1,2 @@
+students={"Fname":"Ronald","Lname":"Ambundo","RegNo":"bscit-05-0033/2018","PhoneNo":"0717331020"}
+print(students)
